@@ -18,21 +18,17 @@
 ## 📸 Screenshots
 
 ### 🔐 Sign In & Sign Up
-<p float="left">
-  <img src="screenshots/signup.png" width="47%" />![Screenshot 2025-07-01 170400](https://github.com/user-attachments/assets/61648334-f034-4bf6-abc5-633e69121166)
+![Screenshot 2025-07-01 170400](https://github.com/user-attachments/assets/4c0d0754-7cae-438e-86b4-4ac0bdc00299)
 
-</p>
 
 ### 📊 Dashboard & Workout Tracker
-<p float="left">
-
-  <img src="screenshots/add-workout.png" width="47%" />![Screenshot 2025-07-01 170346](https://github.com/user-attachments/assets/97870db7-7ae2-4527-838e-ae4b5267f37e)
-
-</p>
+![Screenshot 2025-07-01 170329](https://github.com/user-attachments/assets/7b783165-b15c-4223-a28e-dac5c8daf4d8)
+![Screenshot 2025-07-01 170346](https://github.com/user-attachments/assets/211d15ff-41ac-4956-b923-a687a2591fa8)
 
 > 💡 Users can upload workouts based on their own custom format.
 
----
+
+
 
 ## 🗂️ Project Structure
 
