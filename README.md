@@ -19,15 +19,12 @@
 
 ### 🔐 Sign In & Sign Up
 <p float="left">
-  <img src="screenshots/login.png" width="47%" />![Screenshot 2025-07-01 170300](https://github.com/user-attachments/assets/b18eacd3-2c9e-487f-a333-ec052ffadad9)
-
   <img src="screenshots/signup.png" width="47%" />![Screenshot 2025-07-01 170400](https://github.com/user-attachments/assets/61648334-f034-4bf6-abc5-633e69121166)
 
 </p>
 
 ### 📊 Dashboard & Workout Tracker
 <p float="left">
-  <img src="screenshots/dashboard.png" width="47%" />![Screenshot 2025-07-01 170329](https://github.com/user-attachments/assets/0b0d136c-abc9-4206-8fb5-bc9582a3abc0)
 
   <img src="screenshots/add-workout.png" width="47%" />![Screenshot 2025-07-01 170346](https://github.com/user-attachments/assets/97870db7-7ae2-4527-838e-ae4b5267f37e)
 
